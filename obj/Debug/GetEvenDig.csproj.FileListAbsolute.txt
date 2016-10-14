@@ -1,0 +1,6 @@
+D:\project\GetEvenDig\GetEvenDig\bin\Debug\GetEvenDig.exe.config
+D:\project\GetEvenDig\GetEvenDig\bin\Debug\GetEvenDig.exe
+D:\project\GetEvenDig\GetEvenDig\bin\Debug\GetEvenDig.pdb
+D:\project\GetEvenDig\GetEvenDig\obj\Debug\GetEvenDig.csprojResolveAssemblyReference.cache
+D:\project\GetEvenDig\GetEvenDig\obj\Debug\GetEvenDig.exe
+D:\project\GetEvenDig\GetEvenDig\obj\Debug\GetEvenDig.pdb
